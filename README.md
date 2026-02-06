@@ -38,5 +38,8 @@ Add this line (example):
 ```html
 <p><strong>Deployed by:</strong> DMI Cohort 2 | Rahul Sharma | Group 4 | Week 1 | 16-01-2026</p>
 ```
+## Footer Versioning
+The footer displays version, deploy date, and author.
+Deploy date is generated dynamically using JavaScript at runtime.
 
 ✅ This proof must be visible in your browser screenshot submission.
